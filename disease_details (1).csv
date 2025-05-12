@@ -1,0 +1,345 @@
+﻿Category,Disease,Prevention_Tip
+Infectious Diseases,Abscess,Maintain good hygiene; clean wounds promptly.
+Infectious Diseases,Acquired Immuno Deficiency Syndrome,Practice safe sex; avoid sharing needles.
+Infectious Diseases,Acute encephalitis syndrome,"Vaccination (if available, e.g., JE); mosquito control."
+Infectious Diseases,Adult Inclusion Conjunctivitis,Practice safe sex (often linked to Chlamydia).
+Infectious Diseases,Amoebiasis,Ensure safe drinking water and food; good hygiene.
+Infectious Diseases,Anthrax,Avoid contact with infected animals/products; vaccination for high-risk groups.
+Infectious Diseases,Aseptic meningitis,"Vaccination for some causes (e.g., Mumps); good hygiene."
+Infectious Diseases,Black Death,Avoid contact with infected rodents/fleas; seek immediate treatment if exposed.
+Infectious Diseases,Botulism,Proper food canning/preparation; avoid honey for infants <1 year.
+Infectious Diseases,Brucellosis,Avoid unpasteurized dairy; use protection when handling animals/carcasses.
+Infectious Diseases,Campylobacter infection,Proper food handling (esp. poultry); safe water.
+Infectious Diseases,Candidiasis,"Maintain good hygiene; manage underlying conditions (e.g., diabetes); avoid unnecessary antibiotics."
+Infectious Diseases,Chagas disease,Vector control (kissing bugs); screen blood donations.
+Infectious Diseases,Chickenpox,Vaccination (Varicella vaccine).
+Infectious Diseases,Chikungunya Fever,Mosquito control (Aedes mosquitoes).
+Infectious Diseases,Chlamydia,Practice safe sex; regular screening for sexually active individuals.
+Infectious Diseases,Cholera,Ensure safe drinking water and food sanitation; vaccination in high-risk areas.
+Infectious Diseases,Common cold,Frequent handwashing; avoid close contact with infected people.
+Infectious Diseases,Condyloma,HPV vaccination; practice safe sex.
+Infectious Diseases,Coronavirus disease 2019,Vaccination; hand hygiene; masks in crowded settings; good ventilation.
+Infectious Diseases,Crimean Congo haemorrhagic fever,Avoid tick bites; use protection when handling livestock in endemic areas.
+Infectious Diseases,Dengue,Mosquito control (Aedes mosquitoes); avoid mosquito bites.
+Infectious Diseases,Diphtheria,"Vaccination (DTaP, Tdap, Td)."
+Infectious Diseases,Dracunculiasis (guinea-worm disease),Ensure safe drinking water (filter or boil).
+Infectious Diseases,Dysentery,Ensure safe drinking water and food; good hygiene.
+Infectious Diseases,Ear infection,"Vaccination (pneumococcal, flu); avoid smoke exposure; good hygiene."
+Infectious Diseases,Ebola,Avoid contact with infected individuals/animals/fluids; strict infection control.
+Infectious Diseases,Food Poisoning,"Proper food handling, cooking, and storage."
+Infectious Diseases,Gastroenteritis,Frequent handwashing; safe food and water practices.
+Infectious Diseases,Genital herpes,Practice safe sex; antiviral medication can reduce transmission.
+Infectious Diseases,Gonorrhea,Practice safe sex; regular screening.
+Infectious Diseases,"Hand, Foot and Mouth Disease",Frequent handwashing; avoid close contact with infected people.
+Infectious Diseases,"Hepatitis A, B, C, D, E","Vaccination (Hep A, Hep B); safe sex; avoid sharing needles; safe food/water (Hep A/E)."
+Infectious Diseases,Herpes Simplex,Avoid direct contact with sores; practice safe sex (for genital herpes).
+Infectious Diseases,Human papillomavirus,HPV vaccination; practice safe sex; regular screening (Pap test for cervical cancer).
+Infectious Diseases,Impetigo,Good hygiene; clean cuts/scrapes promptly; avoid contact with infected sores.
+Infectious Diseases,Influenza,Annual flu vaccination; hand hygiene; avoid close contact with sick people.
+Infectious Diseases,Japanese Encephalitis,Vaccination; mosquito control.
+Infectious Diseases,Kala-azar/ Leishmaniasis,"Avoid sandfly bites (use repellent, nets); environmental management."
+Infectious Diseases,Legionellosis,"Proper maintenance of water systems (cooling towers, plumbing)."
+Infectious Diseases,Leprosy,Early diagnosis and treatment of cases reduces spread; prevention unclear.
+Infectious Diseases,Leptospirosis,Avoid contact with contaminated water/soil (animal urine); protective clothing.
+Infectious Diseases,Lice,"Avoid head-to-head contact; don't share hats, combs, towels."
+Infectious Diseases,Lyme disease,"Avoid tick bites (repellents, protective clothing, check for ticks)."
+Infectious Diseases,Malaria,"Avoid mosquito bites (nets, repellents); preventive medication in high-risk areas."
+Infectious Diseases,Marburg fever,Avoid contact with fruit bats and infected individuals/primates in endemic areas.
+Infectious Diseases,Measles,Vaccination (MMR vaccine).
+Infectious Diseases,Middle East respiratory syndrome coronavirus,Avoid contact with camels; good hygiene; avoid close contact with sick people.
+Infectious Diseases,Mononucleosis,"Avoid sharing drinks, utensils, or kissing someone infected (often spreads via saliva)."
+Infectious Diseases,Mumps,Vaccination (MMR vaccine).
+Infectious Diseases,Necrotizing Fasciitis,Good wound care; good hygiene; seek prompt treatment for skin infections.
+Infectious Diseases,Nipah virus infection,"Avoid contact with infected bats, pigs, or people; avoid raw date palm sap."
+Infectious Diseases,Osteomyelitis,Prompt treatment of infections; good foot care for diabetics; clean wounds.
+Infectious Diseases,Paratyphoid fever,Ensure safe drinking water and food; good hygiene; vaccination (for Typhoid).
+Infectious Diseases,Pelvic inflammatory disease,Practice safe sex; prompt treatment of STIs.
+Infectious Diseases,Peritonitis,"Prompt treatment of underlying abdominal issues (e.g., appendicitis); sterile technique for peritoneal dialysis."
+Infectious Diseases,Pneumonia,"Vaccination (pneumococcal, flu, Hib); avoid smoking; good hygiene."
+Infectious Diseases,Poliomyelitis,"Vaccination (IPV, OPV)."
+Infectious Diseases,Puerperal sepsis,Good hygiene during childbirth; sterile techniques; prompt treatment of infections.
+Infectious Diseases,Ques fever,Avoid inhaling dust near infected animals; avoid unpasteurized milk.
+Infectious Diseases,Quinsy,Prompt treatment of tonsillitis/strep throat; good oral hygiene.
+Infectious Diseases,Rabies,Vaccinate pets; avoid contact with wild/stray animals; post-exposure vaccination if bitten.
+Infectious Diseases,Rheumatic fever,Prompt and complete treatment of strep throat infections with antibiotics.
+Infectious Diseases,Rift Valley fever,Avoid mosquito bites; avoid contact with infected animal blood/tissues.
+Infectious Diseases,Rocky Mountain spotted fever,"Avoid tick bites (repellents, protective clothing, check for ticks)."
+Infectious Diseases,Rubella,Vaccination (MMR vaccine).
+Infectious Diseases,SARS,"Infection control measures (masks, hygiene); avoid contact with sick individuals (during outbreaks)."
+Infectious Diseases,Scabies,Avoid skin-to-skin contact with infected person; treat all household members/close contacts.
+Infectious Diseases,Scarlet fever,Prompt treatment of strep throat; good hygiene.
+Infectious Diseases,Scrub Typhus,"Avoid mite bites (repellents, protective clothing) in endemic areas."
+Infectious Diseases,Sepsis,"Prevent infections (vaccination, hygiene); manage chronic conditions; seek prompt treatment for infections."
+Infectious Diseases,Sexually transmitted infections (STIs),"Practice safe sex (condoms); mutual monogamy; regular screening; vaccination (HPV, Hep B)."
+Infectious Diseases,Shigellosis,Frequent handwashing; safe food and water practices.
+Infectious Diseases,Shingles,Vaccination (Shingles vaccine for older adults).
+Infectious Diseases,Smallpox,"Vaccination (now eradicated globally, vaccine reserved for specific risks)."
+Infectious Diseases,Strep throat,Good hygiene (handwashing); avoid sharing utensils/drinks with sick people.
+Infectious Diseases,Syphilis,Practice safe sex; regular screening.
+Infectious Diseases,Taeniasis / Taeniasis/cysticercosis,Cook meat thoroughly; good hygiene; proper sanitation.
+Infectious Diseases,Tetanus,"Vaccination (DTaP, Tdap, Td)."
+Infectious Diseases,Tonsillitis,Good hygiene; avoid close contact with sick people.
+Infectious Diseases,Toxic shock syndrome,Change tampons frequently; good wound care; prompt treatment of infections.
+Infectious Diseases,Trachoma,Good facial hygiene; access to clean water and sanitation; fly control.
+Infectious Diseases,Trichinosis,Cook pork and wild game thoroughly.
+Infectious Diseases,Trichomoniasis,Practice safe sex.
+Infectious Diseases,Tuberculosis,BCG vaccination (limited effect); infection control; treatment of latent TB infection.
+Infectious Diseases,Tularemia,Avoid handling sick/dead animals; avoid tick/deer fly bites; safe water.
+Infectious Diseases,Warts,Avoid touching warts (yours or others'); HPV vaccine may prevent some types.
+Infectious Diseases,Yaws,Early diagnosis and treatment with antibiotics prevents spread.
+Infectious Diseases,Yellow Fever,Vaccination; mosquito control.
+Infectious Diseases,Zika virus disease,Mosquito control; avoid mosquito bites; practice safe sex (can be sexually transmitted).
+Oncology,Brain Tumour,Prevention largely unknown; avoid unnecessary radiation exposure.
+Oncology,Breast Cancer / Carcinoma,Maintain healthy weight; limit alcohol; exercise; regular screening (mammograms).
+Oncology,Cancer,"Healthy lifestyle (diet, exercise, weight); no smoking; limit alcohol; sun protection; screenings."
+Oncology,Colorectal Cancer,Regular screening (colonoscopy); healthy diet (fiber); maintain healthy weight; limit red/processed meat.
+Oncology,Kaposi’s Sarcoma,Prevent HIV infection (safe sex); manage HIV if infected.
+Oncology,Leukemia,Avoid high-dose radiation/certain chemicals; prevention largely unknown for most types.
+Oncology,Lung cancer,Don't smoke; avoid secondhand smoke; avoid radon/asbestos exposure.
+Oncology,Lymphoma,"Prevent/manage conditions linked to lymphoma (e.g., HIV, EBV); avoid immunosuppression where possible."
+Oncology,Melanoma,"Sun protection (sunscreen, protective clothing); avoid tanning beds; regular skin checks."
+Oncology,Multiple myeloma,Prevention unknown; avoid exposure to certain chemicals/radiation.
+Oncology,Neoplasm,"General cancer prevention strategies apply (lifestyle, screenings)."
+Oncology,Oral Cancer,Don't use tobacco (smoking/chewing); limit alcohol; regular dental checkups; HPV vaccine.
+Oncology,Orbital Dermoid,Congenital; not preventable.
+Oncology,Sarcoma,Prevention largely unknown; avoid high-dose radiation; genetic counseling if family history.
+Neurological Disorders,Acute encephalitis syndrome,"Vaccination (if available, e.g., JE); mosquito control."
+Neurological Disorders,Alzheimer,Manage cardiovascular risk factors; stay mentally and physically active; prevention unclear.
+Neurological Disorders,Amaurosis Fugax,"Manage underlying cause (e.g., cardiovascular disease, carotid artery stenosis)."
+Neurological Disorders,Bell's Palsy,Prevention unknown; possibly linked to viral infections.
+Neurological Disorders,Carpal Tunnel Syndrome,Maintain neutral wrist posture; take breaks from repetitive tasks; manage underlying conditions.
+Neurological Disorders,Cerebral palsy,Good prenatal/perinatal care; prevent premature birth/infections during pregnancy.
+Neurological Disorders,Chorea,"Treat underlying cause (e.g., Huntington's, rheumatic fever)."
+Neurological Disorders,Dementia,Manage cardiovascular risk factors; maintain healthy lifestyle; stay mentally active.
+Neurological Disorders,Epilepsy,Prevent head injuries; manage infections; good prenatal care; treat underlying causes.
+Neurological Disorders,Guillain-Barré syndrome,"Prevention unknown; possibly reduce risk by preventing infections (e.g., Campylobacter)."
+Neurological Disorders,Hypotonia,Treat underlying cause; good prenatal care.
+Neurological Disorders,Insomnia,Practice good sleep hygiene; manage stress; treat underlying conditions.
+Neurological Disorders,Kuru,Avoid consumption of human brain tissue (historical practice).
+Neurological Disorders,Mad cow disease,Avoid consuming contaminated beef products (strict feed regulations largely prevent this now).
+Neurological Disorders,Migraine,Identify and avoid triggers; manage stress; maintain regular sleep/meal schedule.
+Neurological Disorders,Multiple sclerosis,Prevention unknown; Vitamin D sufficiency may play a role.
+Neurological Disorders,Muscular dystrophy,Genetic condition; genetic counseling for affected families.
+Neurological Disorders,Myasthenia gravis,Prevention unknown.
+Neurological Disorders,Myelitis,Prompt treatment of infections; prevention largely unknown for autoimmune causes.
+Neurological Disorders,Narcolepsy,Prevention unknown.
+Neurological Disorders,Neuralgia,"Treat underlying cause (e.g., shingles, diabetes, injury)."
+Neurological Disorders,Parkinson's Disease,Prevention unknown; avoid pesticide exposure may reduce risk slightly.
+Neurological Disorders,Poliomyelitis,"Vaccination (IPV, OPV)."
+Neurological Disorders,Post-herpetic neuralgia,Shingles vaccination; prompt antiviral treatment for shingles.
+Neurological Disorders,Rabies,Vaccinate pets; avoid contact with wild/stray animals; post-exposure vaccination if bitten.
+Neurological Disorders,Sciatica,Use proper lifting techniques; maintain healthy weight; regular exercise; good posture.
+Neurological Disorders,Scrapie,Animal disease; prevent through breeding programs and feed regulations.
+Neurological Disorders,Shaken Baby Syndrome,NEVER shake a baby; seek help if frustrated with crying.
+Neurological Disorders,Stroke,"Control blood pressure, cholesterol, diabetes; don't smoke; maintain healthy weight/diet; exercise."
+Neurological Disorders,Tetanus,"Vaccination (DTaP, Tdap, Td)."
+Neurological Disorders,Tinnitus,Protect ears from loud noise; manage cardiovascular health; treat underlying causes.
+Neurological Disorders,Vasovagal syncope,"Identify and avoid triggers (e.g., sight of blood, prolonged standing); stay hydrated."
+Neurological Disorders,papilloedema,"Treat underlying cause (e.g., increased intracranial pressure)."
+Cardiovascular Diseases,Amaurosis Fugax,"Manage underlying cardiovascular disease (control BP, cholesterol, diabetes; no smoking)."
+Cardiovascular Diseases,Congestive heart disease,"Prevent/treat underlying causes (high BP, coronary artery disease, diabetes); healthy lifestyle."
+Cardiovascular Diseases,Coronary Heart Disease,"Healthy diet; exercise; no smoking; control BP, cholesterol, diabetes."
+Cardiovascular Diseases,Myocardial Infarction (Heart Attack),"Healthy diet; exercise; no smoking; control BP, cholesterol, diabetes."
+Cardiovascular Diseases,Pericarditis,Prompt treatment of infections; prevention difficult for other causes.
+Cardiovascular Diseases,Pulmonary embolism,"Prevent deep vein thrombosis (DVT) (leg exercises during inactivity, compression stockings if needed, anticoagulants if high risk)."
+Cardiovascular Diseases,Raynaud's Phenomenon,Avoid cold exposure; wear warm clothing; avoid smoking; manage stress.
+Cardiovascular Diseases,Rheumatic fever,Prompt and complete treatment of strep throat infections.
+Cardiovascular Diseases,Stroke,"Control blood pressure, cholesterol, diabetes; don't smoke; maintain healthy weight/diet; exercise."
+Cardiovascular Diseases,Varicose Veins,Maintain healthy weight; exercise; avoid prolonged standing/sitting; elevate legs.
+Respiratory Diseases,Asthma,"Identify and avoid triggers (allergens, irritants); take controller medications as prescribed."
+Respiratory Diseases,Asbestos-related diseases,Avoid asbestos exposure; use protective equipment if exposure is unavoidable.
+Respiratory Diseases,Bronchitis,Don't smoke; avoid irritants; good hygiene; flu/pneumonia vaccines can help prevent complications.
+Respiratory Diseases,Chronic obstructive pulmonary disease (COPD),Don't smoke; avoid long-term exposure to lung irritants.
+Respiratory Diseases,Common cold,Frequent handwashing; avoid close contact with infected people.
+Respiratory Diseases,Coronavirus disease 2019,Vaccination; hand hygiene; masks in crowded settings; good ventilation.
+Respiratory Diseases,Influenza,Annual flu vaccination; hand hygiene; avoid close contact with sick people.
+Respiratory Diseases,Laryngitis,Avoid vocal strain; don't smoke; treat underlying infections/reflux.
+Respiratory Diseases,Legionellosis,Proper maintenance of water systems.
+Respiratory Diseases,Lung cancer,Don't smoke; avoid secondhand smoke; avoid radon/asbestos exposure.
+Respiratory Diseases,Middle East respiratory syndrome coronavirus,Avoid contact with camels; good hygiene; avoid close contact with sick people.
+Respiratory Diseases,Mouth Breathing,"Treat underlying cause (e.g., nasal congestion, allergies, adenoids)."
+Respiratory Diseases,Nasal Polyps,Manage allergies and asthma; good nasal hygiene.
+Respiratory Diseases,Neonatal Respiratory Disease Syndrome(NRDS),Prevent premature birth; antenatal steroids for mothers at risk of preterm delivery.
+Respiratory Diseases,Pneumonia,"Vaccination (pneumococcal, flu, Hib); avoid smoking; good hygiene."
+Respiratory Diseases,Sarcoidosis,Prevention unknown.
+Respiratory Diseases,SARS,Infection control measures during outbreaks.
+Respiratory Diseases,Tuberculosis,BCG vaccination (limited effect); infection control; treatment of latent TB infection.
+Gastrointestinal Disorders,Appendicitis,Prevention unclear; possibly high-fiber diet may reduce risk slightly.
+Gastrointestinal Disorders,Bad Breath (Halitosis),Good oral hygiene; treat underlying dental/medical conditions.
+Gastrointestinal Disorders,Celiacs disease,Genetic; not preventable; requires strict gluten-free diet for management.
+Gastrointestinal Disorders,Cholera,Ensure safe drinking water and food sanitation.
+Gastrointestinal Disorders,Colitis,"Prevention depends on cause (e.g., treat infections, manage IBD)."
+Gastrointestinal Disorders,Colorectal Cancer,Regular screening (colonoscopy); healthy diet/weight; limit red meat.
+Gastrointestinal Disorders,Dysentery,Ensure safe drinking water and food; good hygiene.
+Gastrointestinal Disorders,Food Poisoning,"Proper food handling, cooking, and storage."
+Gastrointestinal Disorders,GERD,Maintain healthy weight; avoid trigger foods; don't lie down after eating; elevate head of bed.
+Gastrointestinal Disorders,Gastroenteritis,Frequent handwashing; safe food and water practices.
+Gastrointestinal Disorders,Hepatitis,"Vaccination (Hep A, Hep B); safe sex; avoid sharing needles; safe food/water (Hep A/E)."
+Gastrointestinal Disorders,Inflammatory Bowel Disease,Prevention unknown; manage triggers; follow treatment plan.
+Gastrointestinal Disorders,Irritable bowel syndrome,Identify and manage dietary/stress triggers.
+Gastrointestinal Disorders,Jaundice,Prevent/treat underlying liver or bile duct condition.
+Gastrointestinal Disorders,Peritonitis,Prompt treatment of underlying abdominal issues.
+Gastrointestinal Disorders,Stomach ulcers,Avoid long-term NSAID use; treat H. pylori infection; manage stress; don't smoke.
+Gastrointestinal Disorders,Taeniasis / Taeniasis/cysticercosis,Cook meat thoroughly; good hygiene.
+Gastrointestinal Disorders,lactose intolerance,Genetic/age-related; not preventable; manage by limiting/avoiding lactose.
+Endocrine and Metabolic Disorders,Beriberi,Ensure adequate Thiamine (Vitamin B1) intake through diet or supplements.
+Endocrine and Metabolic Disorders,Diabetes Mellitus,"Healthy diet, exercise, weight management (prevents/delays Type 2); Type 1 not preventable."
+Endocrine and Metabolic Disorders,Diabetic Retinopathy,Strict blood sugar control; regular eye exams for diabetics.
+Endocrine and Metabolic Disorders,Goitre,Ensure adequate iodine intake.
+Endocrine and Metabolic Disorders,Hyperthyroidism,"Prevention unknown for most causes (e.g., Graves' disease)."
+Endocrine and Metabolic Disorders,Hypothyroid,Ensure adequate iodine intake; prevention unknown for Hashimoto's.
+Endocrine and Metabolic Disorders,Obesity,Maintain healthy diet and regular physical activity; portion control.
+Endocrine and Metabolic Disorders,Polycystic ovary syndrome (PCOS),Prevention unknown; maintain healthy weight.
+Endocrine and Metabolic Disorders,Porphyria,"Genetic; not preventable; avoid triggers (certain drugs, alcohol, stress)."
+Endocrine and Metabolic Disorders,Rickets,"Ensure adequate Vitamin D (sunlight, diet, supplements) and Calcium intake."
+Endocrine and Metabolic Disorders,Scurvy,Ensure adequate Vitamin C intake through diet.
+Endocrine and Metabolic Disorders,Vitamin B12 Deficiency,"Ensure adequate B12 intake (diet, supplements); treat underlying absorption issues."
+Musculoskeletal Disorders,Arthritis,Maintain healthy weight; avoid joint injuries; exercise moderately.
+Musculoskeletal Disorders,Atrophy,Maintain physical activity; treat underlying cause.
+Musculoskeletal Disorders,Bunion,Wear properly fitting shoes; avoid high heels/narrow toe boxes.
+Musculoskeletal Disorders,Carpal Tunnel Syndrome,Maintain neutral wrist posture; ergonomic adjustments; take breaks.
+Musculoskeletal Disorders,Fibromyalgia,Prevention unknown; stress management and exercise may help manage.
+Musculoskeletal Disorders,Muscular dystrophy,Genetic; genetic counseling.
+Musculoskeletal Disorders,Myasthenia gravis,Prevention unknown.
+Musculoskeletal Disorders,Osteoarthritis,Maintain healthy weight; control blood sugar; avoid joint injuries; exercise.
+Musculoskeletal Disorders,Osteomyelitis,Prompt treatment of infections; good foot care for diabetics.
+Musculoskeletal Disorders,Osteoporosis,Adequate Calcium & Vitamin D; weight-bearing exercise; no smoking; limit alcohol.
+Musculoskeletal Disorders,Repetitive strain injury,Ergonomic adjustments; take regular breaks; vary tasks; proper technique.
+Musculoskeletal Disorders,Rheumatism,"Prevent/manage underlying cause (e.g., arthritis, injury)."
+Musculoskeletal Disorders,Shin splints,Gradual increase in exercise intensity; proper footwear; stretching.
+Musculoskeletal Disorders,Tennis elbow,Proper technique in sports/activities; avoid overuse; strengthen forearm muscles.
+Ophthalmology,Acquired Capillary Haemangioma of Eyelid,Prevention unknown.
+Ophthalmology,Adult Inclusion Conjunctivitis,Practice safe sex.
+Ophthalmology,Amaurosis Fugax,Manage underlying cardiovascular risk factors.
+Ophthalmology,Amblyopia,Early vision screening in children; prompt treatment of underlying eye problems.
+Ophthalmology,Aniseikonia,Accurate eyeglass/contact lens prescription.
+Ophthalmology,Anisometropia,"Regular eye exams, especially in childhood."
+Ophthalmology,Astigmatism,Not preventable; regular eye exams for correction.
+Ophthalmology,Blindness,"Prevent/treat underlying causes (cataracts, glaucoma, diabetes, infections, injury)."
+Ophthalmology,Chalazion,Good eyelid hygiene; treat blepharitis.
+Ophthalmology,Childhood Exotropia,Early vision screening; treatment of underlying issues.
+Ophthalmology,Corneal Abrasion,Use protective eyewear; care with contact lenses.
+Ophthalmology,Diabetic Retinopathy,Strict blood sugar control; regular dilated eye exams for diabetics.
+Ophthalmology,Glaucoma,"Regular comprehensive eye exams (incl. pressure check, optic nerve exam), esp. if high risk."
+Ophthalmology,Hypermetropia,Not preventable; regular eye exams for correction.
+Ophthalmology,Iritis,"Prompt treatment of underlying conditions (infections, autoimmune disease)."
+Ophthalmology,Keratoconjunctivitis Sicca,Avoid dry environments/wind; take breaks from screens; use artificial tears; treat underlying causes.
+Ophthalmology,Keratoconus,Prevention unknown; avoid eye rubbing.
+Ophthalmology,Myopia,Not fully preventable; possibly less close work / more outdoor time in childhood may reduce risk.
+Ophthalmology,Orbital Dermoid,Congenital; not preventable.
+Ophthalmology,Perennial Allergic Conjunctivitis,Identify and avoid allergens; use allergy eye drops.
+Ophthalmology,Pinguecula,Wear sunglasses to protect from UV/wind/dust.
+Ophthalmology,Presbyopia,Age-related; not preventable; requires reading glasses/correction.
+Ophthalmology,Sub-conjunctival Haemorrhage,Often spontaneous; control high blood pressure; avoid straining.
+Ophthalmology,Trachoma,Good facial hygiene; clean water/sanitation; fly control.
+Ophthalmology,papilloedema,Treat underlying cause of increased intracranial pressure.
+Dermatology,Acne,Gentle skin cleansing; avoid oily products; don't pick/squeeze; manage stress.
+Dermatology,Alopecia (hair loss),Prevention depends on cause; treat underlying conditions; gentle hair care.
+Dermatology,Burns,Practice fire safety; lower water heater temperature; use caution with hot liquids/surfaces.
+Dermatology,Candidiasis,Keep skin dry; good hygiene; manage diabetes; avoid unnecessary antibiotics.
+Dermatology,Chickenpox,Vaccination.
+Dermatology,Condyloma,HPV vaccination; practice safe sex.
+Dermatology,Eczema,Moisturize skin regularly; avoid triggers/irritants; gentle cleansing.
+Dermatology,Frost Bite,"Wear appropriate warm, dry clothing in cold weather; limit exposure time."
+Dermatology,Gangrene,Manage diabetes/vascular disease; treat infections promptly; don't smoke; avoid severe frostbite.
+Dermatology,Genital herpes,Practice safe sex.
+Dermatology,Herpes Simplex,Avoid direct contact with sores.
+Dermatology,Impetigo,Good hygiene; clean wounds promptly.
+Dermatology,Kaposi’s Sarcoma,Prevent/manage HIV.
+Dermatology,Leprosy,Early diagnosis and treatment reduces spread.
+Dermatology,Lice,Avoid head-to-head contact; don't share hats/combs.
+Dermatology,Lupus erythematosus,Sun protection; prevention largely unknown.
+Dermatology,Measles,Vaccination.
+Dermatology,Melanoma,Sun protection; avoid tanning beds; regular skin checks.
+Dermatology,Necrotizing Fasciitis,Good wound care; good hygiene.
+Dermatology,Psoriasis,"Prevention unknown; manage stress; avoid triggers (injury, certain meds)."
+Dermatology,Rubella,Vaccination.
+Dermatology,Scabies,Avoid skin-to-skin contact with infected person.
+Dermatology,Scarlet fever,Prompt treatment of strep throat; good hygiene.
+Dermatology,Shingles,Vaccination (for older adults).
+Dermatology,Smallpox,Vaccination (historically; disease eradicated).
+Dermatology,Stevens-Johnson syndrome,Identify and avoid causative medications if possible (severe drug reaction).
+Dermatology,Urticaria,"Identify and avoid triggers (allergens, medications, stress)."
+Dermatology,Vitiligo,Prevention unknown; sun protection for affected areas.
+Dermatology,Warts,Avoid touching warts; keep feet dry (plantar warts); HPV vaccine may prevent some.
+Dermatology,Yaws,Early diagnosis and treatment prevents spread.
+Hematology,Anaemia,"Ensure adequate intake of iron, B12, folate (depending on type); treat underlying causes."
+Hematology,Haemophilia,Genetic; genetic counseling; avoid injury.
+Hematology,Iron Deficiency Anemia,Ensure adequate dietary iron intake; treat blood loss.
+Hematology,Leukemia,Avoid high-dose radiation/certain chemicals; prevention mostly unknown.
+Hematology,Lymphoma,"Prevent/manage associated infections (HIV, EBV); prevention mostly unknown."
+Hematology,Multiple myeloma,Prevention unknown.
+Hematology,Sickle-cell anemia,Genetic; genetic counseling; good hydration; avoid triggers.
+Hematology,Thalassaemia,Genetic; genetic counseling.
+Mental Health and Behavioral Disorders,Alcohol Abuse and Alcoholism,Moderate alcohol consumption or abstinence; seek help early for problem drinking.
+Mental Health and Behavioral Disorders,Anxiety,Stress management techniques; healthy lifestyle; seek therapy/support early.
+Mental Health and Behavioral Disorders,Autism,Prevention unknown; early intervention is key for management.
+Mental Health and Behavioral Disorders,Dementia,Manage cardiovascular risks; stay mentally/physically/socially active.
+Mental Health and Behavioral Disorders,Gaming disorder,Set time limits; balance gaming with other activities; be aware of warning signs.
+Mental Health and Behavioral Disorders,Insomnia,Good sleep hygiene; manage stress.
+Mental Health and Behavioral Disorders,Obsessive Compulsive Disorder,Prevention unknown; stress management; early treatment can help.
+Mental Health and Behavioral Disorders,Postpartum depression/ Perinatal depression,Awareness of risk factors; seek support early; screening during/after pregnancy.
+Mental Health and Behavioral Disorders,Schizophrenia,Prevention unknown; early intervention improves outcome; avoid substance abuse.
+Genetic/Congenital Disorders,Cleft Lip and Cleft Palate,Folic acid supplementation before/during early pregnancy may reduce risk; avoid smoking/alcohol in pregnancy.
+Genetic/Congenital Disorders,Congenital anomalies (birth defects),Good prenatal care; folic acid; avoid alcohol/smoking/certain meds during pregnancy; manage maternal conditions.
+Genetic/Congenital Disorders,Down's Syndrome,Age-related risk; not preventable otherwise.
+Genetic/Congenital Disorders,Haemophilia,Genetic; genetic counseling.
+Genetic/Congenital Disorders,Muscular dystrophy,Genetic; genetic counseling.
+Genetic/Congenital Disorders,Progeria,Genetic (usually spontaneous mutation); not preventable.
+Genetic/Congenital Disorders,Sickle-cell anemia,Genetic; genetic counseling.
+Genetic/Congenital Disorders,Tay-Sachs disease,Genetic; carrier screening in high-risk populations; genetic counseling.
+Genetic/Congenital Disorders,Thalassaemia,Genetic; genetic counseling; carrier screening.
+Genetic/Congenital Disorders,Turners Syndrome,Genetic; not preventable.
+Genetic/Congenital Disorders,Warkany syndrome,Genetic; not preventable.
+Women's Health/Obstetrics/Gynecology,Antepartum hemorrhage,"Good prenatal care; manage risk factors (e.g., high BP); prompt attention to bleeding."
+Women's Health/Obstetrics/Gynecology,Breast Cancer / Carcinoma,Maintain healthy weight; limit alcohol; exercise; screening (mammograms).
+Women's Health/Obstetrics/Gynecology,Early pregnancy loss,Manage underlying health conditions; good prenatal care; prevention often not possible.
+Women's Health/Obstetrics/Gynecology,Eclampsia,Good prenatal care; early detection and management of preeclampsia.
+Women's Health/Obstetrics/Gynecology,Ectopic pregnancy,Prompt treatment of STIs/PID; prevention difficult.
+Women's Health/Obstetrics/Gynecology,Endometriosis,Prevention unknown; possibly limiting estrogen exposure (requires medical discussion).
+Women's Health/Obstetrics/Gynecology,Fibroids,Prevention unclear; maintain healthy weight.
+Women's Health/Obstetrics/Gynecology,High risk pregnancy,Pre-conception counseling; good prenatal care; manage maternal health conditions.
+Women's Health/Obstetrics/Gynecology,Mastitis,Proper breastfeeding technique; good hygiene; empty breasts fully.
+Women's Health/Obstetrics/Gynecology,Nausea and Vomiting of Pregnancy and Hyperemesis gravidarum,Prevention difficult; small frequent meals; hydration; seek medical help if severe.
+Women's Health/Obstetrics/Gynecology,Pelvic inflammatory disease,Practice safe sex; prompt treatment of STIs.
+Women's Health/Obstetrics/Gynecology,Polycystic ovary syndrome (PCOS),Prevention unknown; maintain healthy weight.
+Women's Health/Obstetrics/Gynecology,Post Menopausal Bleeding,Not preventable; requires prompt medical evaluation to rule out serious causes.
+Women's Health/Obstetrics/Gynecology,Postpartum depression/ Perinatal depression,Awareness; seek support early; screening.
+Women's Health/Obstetrics/Gynecology,Preeclampsia,Good prenatal care; low-dose aspirin may be recommended for high-risk individuals.
+Women's Health/Obstetrics/Gynecology,Premenstrual syndrome,Healthy lifestyle; stress management; track symptoms.
+Women's Health/Obstetrics/Gynecology,Preterm birth,Good prenatal care; avoid smoking/alcohol; treat infections; manage chronic conditions.
+Women's Health/Obstetrics/Gynecology,Puerperal sepsis,Good hygiene during childbirth; prompt treatment of infections.
+Autoimmune Diseases,Celiacs disease,Genetic; not preventable; requires strict gluten-free diet for management.
+Autoimmune Diseases,Guillain-Barré syndrome,Prevention unknown; possibly reduce risk by preventing triggering infections.
+Autoimmune Diseases,Inflammatory Bowel Disease,Prevention unknown; manage triggers.
+Autoimmune Diseases,Lupus erythematosus,Prevention unknown; sun protection is crucial.
+Autoimmune Diseases,Multiple sclerosis,Prevention unknown; Vitamin D sufficiency may play a role.
+Autoimmune Diseases,Myasthenia gravis,Prevention unknown.
+Autoimmune Diseases,Psoriasis,Prevention unknown; manage stress; avoid triggers.
+Autoimmune Diseases,Rheumatic fever,Prompt and complete treatment of strep throat infections.
+Autoimmune Diseases,Sarcoidosis,Prevention unknown.
+Autoimmune Diseases,Vitiligo,Prevention unknown.
+Otolaryngology - ENT,Bad Breath (Halitosis),Good oral hygiene; treat underlying cause.
+Otolaryngology - ENT,Ear infection,"Vaccination (pneumococcal, flu); avoid smoke exposure; good hygiene."
+Otolaryngology - ENT,Laryngitis,Avoid vocal strain; don't smoke.
+Otolaryngology - ENT,Mouth Breathing,Treat underlying nasal obstruction.
+Otolaryngology - ENT,Nasal Polyps,Manage allergies/asthma; nasal hygiene.
+Otolaryngology - ENT,Quinsy,Prompt treatment of tonsillitis/strep throat.
+Otolaryngology - ENT,Strep throat,Good hygiene; avoid contact with sick people.
+Otolaryngology - ENT,Tinnitus,Protect hearing from loud noise.
+Otolaryngology - ENT,Tonsillitis,Good hygiene; avoid contact with sick people.
+Environmental/Toxicological Conditions,Asbestos-related diseases,Avoid asbestos exposure.
+Environmental/Toxicological Conditions,Burns,Practice fire safety; caution with hot items.
+Environmental/Toxicological Conditions,Carbon monoxide poisoning,Install CO detectors; ensure proper ventilation for fuel-burning appliances.
+Environmental/Toxicological Conditions,Food Poisoning,"Proper food handling, cooking, storage."
+Environmental/Toxicological Conditions,Frost Bite,"Wear appropriate warm, dry clothing; limit cold exposure."
+Environmental/Toxicological Conditions,Heat-Related Illnesses and Heat waves,Stay hydrated; avoid strenuous activity in extreme heat; seek cool environments.
+Environmental/Toxicological Conditions,Lead poisoning,"Avoid exposure to lead paint/dust, contaminated water/soil."
+Other/General/Systemic Conditions/Symptoms,Chronic fatigue syndrome,Prevention unknown; manage stress; pace activities.
+Other/General/Systemic Conditions/Symptoms,Cough,Treat underlying cause; avoid irritants; good hygiene.
+Other/General/Systemic Conditions/Symptoms,Dehydration,"Drink sufficient fluids, especially during heat, exercise, or illness."
+Other/General/Systemic Conditions/Symptoms,Diarrhea,"Prevent infections (hygiene, safe food/water); treat underlying cause."
+Other/General/Systemic Conditions/Symptoms,Jaundice,Prevent/treat underlying liver or bile duct condition.
+Other/General/Systemic Conditions/Symptoms,Obesity,Maintain healthy diet and regular physical activity.
+Other/General/Systemic Conditions/Symptoms,Rheumatism,"Prevent/manage underlying cause (e.g., arthritis)."
+Other/General/Systemic Conditions/Symptoms,SIDS,Place infants on back to sleep; use firm sleep surface; avoid soft bedding/overheating; no smoking.

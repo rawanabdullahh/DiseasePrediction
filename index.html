@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Disease Prevention Guide</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Disease Prevention Guide</h1>
+      </header>
+      <main>
+        <section class="predict-section">
+          <h2>Predict Diseases</h2>
+          <div class="predict-container">
+            <div id="symptomsContainer" class="symptoms-container">
+              <div class="symptom-entry">
+                <input
+                  type="text"
+                  class="symptom-input"
+                  placeholder="Enter a symptom (e.g., fever)"
+                  list="symptomList"
+                />
+                <button class="remove-symptom">Remove</button>
+              </div>
+            </div>
+            <datalist id="symptomList"></datalist>
+            <button id="addSymptom" class="add-symptom">Add Another Symptom</button>
+            <button id="predictButton">Predict Top Diseases</button>
+          </div>
+          <div id="predictionResults" class="prediction-results"></div>
+          <div id="followUpContainer" class="follow-up-container" style="display: none">
+            <h3>Do you have any of these symptoms?</h3>
+            <div id="followUpQuestions" class="follow-up-questions"></div>
+            <div class="follow-up-actions">
+              <button id="submitFollowUp">Submit</button>
+              <button id="skipFollowUp">Skip</button>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+  </body>
+</html>
